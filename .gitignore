@@ -1,0 +1,7 @@
+**/.ipynb_checkpoints/
+**/__pycache__/
+data/*
+reports/figures/*
+reports/slides/*.pptx
+.DS_Store
+Thumbs.db
