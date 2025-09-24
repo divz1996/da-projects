@@ -1,2 +1,2 @@
-# Data Analytics Projects  
-This repo will hold my mini-projects and capstone projects across Productivity & Agentic AI Tools and EdTech domains.  
+# Data Analytics Projects
+Mini + capstone projects across Productivity & Agentic AI and EdTech. Each folder is self-contained with data, notebooks, and a short case readme.
